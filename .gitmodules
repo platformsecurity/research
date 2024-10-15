@@ -1,0 +1,4 @@
+[submodule "stm32f1-picopwner"]
+	path = stm32f1-picopwner
+	url = git@github.com:CTXz/stm32f1-picopwner.git
+	branch = main
